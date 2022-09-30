@@ -23,7 +23,8 @@ likely to be truthful or fake. All work is done on jupyter-lab.
 
 
 ## Dataset
-You can download the dataset from https://www.kaggle.com/datasets/csmalarkodi/isot-fake-news-dataset
+You can download the dataset from https://www.kaggle.com/datasets/csmalarkodi/isot-fake-news-dataset.
+
 The dataset contains two types of articles: fake and real News. This dataset was collected 
 from real- world sources; the truthful articles were obtained by crawling articles from
 2Fake News Detection with Natural Language Processing
