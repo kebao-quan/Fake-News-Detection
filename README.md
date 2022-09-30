@@ -1,8 +1,9 @@
 # FakeNewsDetection
-Fake News Detection with Python using Machine Learning.
+Fake News Detection with Python using Natural Language Processing
+.
 
 ## Introduction
-With the rise of the social media platform it is easier for anyone to access information in 
+  With the rise of the social media platform it is easier for anyone to access information in 
 real time, However, there are also people who also use social media platforms in the negative 
 way to attain monetary gain by spreading fake news. Fake news often has the aim of damaging 
 the reputation of a person or entity, or making money through advertising revenue. It is important 
