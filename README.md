@@ -25,8 +25,9 @@ Politifact (a fact-checking organization in the USA) and Wikipedia. The dataset 
 different types of articles on different topics, however, the majority of articles focus on political 
 and World news topics. The dataset consists of two CSV files. The first file named “True.csv” 
 contains more than 12,600 articles from reuter.com. The second file named “Fake.csv” contains 
-more than 12,600 articles from different fake news outlet resources. Each article contains the 
-following information: article title, text, type and the date the article was published on. To match 
+more than 12,600 articles from different fake news outlet resources. 
+
+Each article contains the following information: article title, text, type and the date the article was published on. To match 
 the fake news data collected for kaggle.com, we focused mostly on collecting articles from 2016 
 to 2017. The data collected were cleaned and processed, however, the punctuations and mistakes 
 that existed in the fake news were kept in the text.
