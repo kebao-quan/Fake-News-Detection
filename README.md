@@ -7,8 +7,7 @@ Fake News Detection with Python using Natural Language Processing
 real time, However, there are also people who also use social media platforms in the negative 
 way to attain monetary gain by spreading fake news. Fake news often has the aim of damaging 
 the reputation of a person or entity, or making money through advertising revenue. It is important 
-that we have some mechanism for detecting fake news. The goal of this project is to create a 
-model that will classify news into true and fake news.
+that we have some mechanism for detecting fake news. 
 
 The goal of this project is to create a model that inputs text and output whether the text is 
 likely to be truthful or fake. All work is done on jupyter-lab.
