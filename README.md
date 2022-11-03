@@ -39,3 +39,12 @@ following information: article title, text, type and the date the article was pu
 the fake news data collected for kaggle.com, we focused mostly on collecting articles from 2016 
 to 2017. The data collected were cleaned and processed, however, the punctuations and mistakes 
 that existed in the fake news were kept in the text.
+
+## Evaluate text
+
+Use function evaluate()
+Parameter: string
+```
+fakeNews = "This is a fake news"
+evaluate(fakeNews)
+```
