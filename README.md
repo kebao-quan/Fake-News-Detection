@@ -43,7 +43,7 @@ that existed in the fake news were kept in the text.
 ## Evaluate text
 
 Use function evaluate()
-Parameter: string
+
 ```
 fakeNews = "This is a fake news"
 evaluate(fakeNews)
