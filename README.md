@@ -1,6 +1,5 @@
 # FakeNewsDetection
-Fake News Detection with Python using Natural Language Processing
-.
+Fake News Detection with Python using Natural Language Processing.
 
 ## Introduction
  With the rise of the social media platform it is easier for anyone to access information in 
